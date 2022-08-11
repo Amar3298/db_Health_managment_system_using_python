@@ -1,0 +1,10 @@
+Goku_exercise.txt
+Goku_diet.txt
+Gohan_exercise.txt
+Vegeta_exercise.txt
+Vegeta_diet.txt
+Gohan_diet.txt
+Goten_exercise.txt
+Goten_diet.txt
+Chich_exercise.txt
+Chich_diet.txt
