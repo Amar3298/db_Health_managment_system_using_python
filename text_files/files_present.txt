@@ -8,5 +8,7 @@ Goten_exercise.txt
 Goten_diet.txt
 Chich_exercise.txt
 Chich_diet.txt
-Adars_diet.txt
+Adarsh_diet.txt
+Mummy_diet.txt
+
 Mumm_diet.txt

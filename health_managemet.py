@@ -19,7 +19,7 @@ def add_user():
     name_user = input("Enter the name of user:- ")
     name_user = name_user.capitalize()
     with open("./text_files/user.txt","a") as f:
-        f.write(f"\n{name_user}")
+        f.write(f"{name_user}\n")
 global mode;
 mode = "a"
 def user_input_for_user_ui():
