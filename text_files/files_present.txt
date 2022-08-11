@@ -8,3 +8,4 @@ Goten_exercise.txt
 Goten_diet.txt
 Chich_exercise.txt
 Chich_diet.txt
+Adars_diet.txt
