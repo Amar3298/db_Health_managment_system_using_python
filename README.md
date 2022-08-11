@@ -19,13 +19,13 @@ Python
 Clone the project
 
 ```bash
- git clone git@github.com:Amar3298/db_Health_managment_system_using_python.git
+git clone git@github.com:Amar3298/db_Health_managment_system_using_python.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd db_Health_managment_system_using_python
+cd db_Health_managment_system_using_python
 ```
 
 In Terminal
@@ -33,7 +33,7 @@ In Terminal
 Start the projrct
 
 ```bash
-  python health_managemet.py
+python health_managemet.py
 ```
 
 
